@@ -1,4 +1,4 @@
-package com.example.app_get
+package com.example.trucooo
 
 import io.flutter.embedding.android.FlutterActivity
 
